@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+
+body {
+  background: #343a40;
+  font-family: 'Bubblegum Sans', cursive;
+}
+
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
